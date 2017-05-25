@@ -73,6 +73,7 @@
             this.wyslij.TabIndex = 3;
             this.wyslij.Text = "wyslij";
             this.wyslij.UseVisualStyleBackColor = true;
+            this.wyslij.Click += new System.EventHandler(this.wyslij_Click);
             // 
             // info_o_polaczeniu
             // 

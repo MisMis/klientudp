@@ -16,5 +16,10 @@ namespace klientudp
         {
             InitializeComponent();
         }
+
+        private void wyslij_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
